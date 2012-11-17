@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo $@ "-- " $(date)  >> ~/notes/notes.txt
+echo $@ "-- " $(date)  >> ~/.notes/notes.txt
 

@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo "gone" > ~/notes/notes.txt
+echo "gone" > ~/.notes/notes.txt
 
