@@ -1,5 +1,7 @@
 --Logan Mohseni
 
+newchages
+
 Place these files in your PATH:
 
 --need to add a file called ~/.notes/notes.txt
