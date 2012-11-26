@@ -2,6 +2,8 @@
 
 Place these files in your PATH:
 
+--need to add a file called ~/.notes/notes.txt
+perhaps this should be automated
 
 note :		take notes from the command line
 		saved to ~./notes/notes.txt
